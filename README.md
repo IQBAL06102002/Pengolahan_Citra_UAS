@@ -18,6 +18,7 @@ Berikut adalah program Python yang telah dirapikan dan dijelaskan setiap langkah
 <img width="584" alt="image" src="https://github.com/IQBAL06102002/Pengolahan_Citra_UAS/assets/115945207/e95721d0-0ff8-44a1-9144-4bcfc15fb145">
 
 
-HASIL OUTPUT GAMBAR TERSEGMENTASI K=3
+# HASIL OUTPUT GAMBAR TERSEGMENTASI K=3
 
-<img width="178" alt="image" src="https://github.com/IQBAL06102002/Pengolahan_Citra_UAS/assets/115945207/5bc1f3fd-e0b2-410e-b378-2548e9d7d7c4">
+<img width="497" alt="image" src="https://github.com/IQBAL06102002/Pengolahan_Citra_UAS/assets/115945207/9ffaddc6-c4f8-482d-bcb6-05af8c22077c">
+
