@@ -1,7 +1,9 @@
 # Pengolahan_Citra_UAS
 
 Nama  : M. Iqbal Fadillah
+
 Nim   : 312210586
+
 Kelas : TI.22.B2
 
 A. K-means Clustering
